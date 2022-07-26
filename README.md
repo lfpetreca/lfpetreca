@@ -1,6 +1,6 @@
 ![Hi There](https://github.com/lfpetreca/lfpetreca/blob/main/header.png?raw=true "Hi there")
 ## Hi there 👋
-
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 ## This is my core Skillset
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfpetreca&layout=compact&hide=html,jupyter%20notebook)
